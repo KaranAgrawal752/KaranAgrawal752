@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Karan Agrawal </h1>
-<h3 align="center">ML enthusiast and love doing DSA & competitive programming</h3>
+<h3 align="center">love doing DSA & competitive programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanagrawal752&label=Profile%20views&color=0e75b6&style=flat" alt="karanagrawal752" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently working on MISRA-C rules on **Clang**
 
 - 📫 How to reach me **kannuagrawal752@gmail.com**
 
